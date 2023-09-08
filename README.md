@@ -11,13 +11,13 @@ I am always looking for new knowledge, growth and improvement, both in my person
 
 Find me everywhere:
 <p>
-  <a href="https://www.linkedin.com/in/christianlitrico/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://imgur.com/8e4Gc7f"/></a>
-  <a href="https://www.kaggle.com/christianlitrico"><img width="32px" alt="Kaggle" title="Kaggle" src="https://www.kaggle.com/christianlitrico"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/umamitas01/" alt="Instagram" title="Instagram" src="https://www.instagram.com/umamitas01/"/>
-    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <a href="https://www.linkedin.com/in/christianlitrico/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://imgur.com/8e4Gc7f"/>
+   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.kaggle.com/christianlitrico"><img width="32px" alt="Kaggle" title="Kaggle" src="https://www.kaggle.com/christianlitrico"/>
+   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
+  </a>
+ 
 </p>
 
 ---
