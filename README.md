@@ -9,7 +9,7 @@ Problem solving, communication and team-work are some of the main soft skills ac
 Interested in the topics of user protection in digital spaces, media history and legislation on digital spaces.
 I am always looking for new knowledge, growth and improvement, both in my personal and professional life.
 <hr/>
-**`You can check my other activities on:`**
+You can also check my socials:
 <p>
   <a href="https://www.linkedin.com/in/christianlitrico/"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
@@ -29,10 +29,6 @@ I am always looking for new knowledge, growth and improvement, both in my person
 
 <hr/>
 <br/>
-### Stats📈
-[![Umamitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=umamitas)](https://github.com/umamitas/github-readme-stats)
-<br/>
-<hr/>
 <details>
   <summary><h3>🧗Starting my climb</summary>
   
