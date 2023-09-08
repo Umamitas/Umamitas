@@ -8,7 +8,7 @@ Problem solving, communication and team-work are some of the main soft skills ac
 
 Interested in the topics of user protection in digital spaces, media history and legislation on digital spaces.
 I am always looking for new knowledge, growth and improvement, both in my personal and professional life.
-
+<hr/>
 Find me everywhere:
 <p>
   <a href="https://www.linkedin.com/in/christianlitrico/"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
@@ -17,7 +17,7 @@ Find me everywhere:
   </a>
 </p>
 
----
+<hr/>
 
 ### 🧑‍💻 Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
