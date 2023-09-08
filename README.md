@@ -1,6 +1,8 @@
 # Christian Alberto Litrico 🏌️
 
 **`Digital Humanist | Web Developer | Data Analyst wannabe`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Digital+Humanist;Junior+Web+Developer;Data+Analyst+wannabe)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Digital+Humanist;Junior+Web+Developer;Data+Analyst+wannabe" alt="Typing SVG" /></a>
 
 Student in Digital Humanities at the University of Catania and graduate in Communication.
  
