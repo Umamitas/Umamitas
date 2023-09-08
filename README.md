@@ -1,4 +1,4 @@
-# Christian Alberto Litrico 🏌🧘
+# Christian Alberto Litrico 🧘
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&duration=2500&pause=300&color=FFD700&vCenter=true&width=500&lines=Digital+Humanist;Junior+Web+Developer;Data+Analyst+wannabe)](https://git.io/typing-svg)
 
 
@@ -32,7 +32,7 @@ I am always looking for new knowledge, growth and improvement, both in my person
 <hr/>
 <br/>
 <details>
-  <summary><h3>🧗Starting my climb</summary>
+  <summary><h3>Starting my climb 🧗</summary>
   
   Hi, I'm a communication graduate who decided to switch gears and dive into the fascinating world of digital humanities. I'm currently finishing my specialization at the University of Catania, where I'm learning how to tame data with Python, SQL, Machine Learning with hugging face, pandas and similar libraries. But that's not enough for me, I also want to create beautiful and interactive web pages, so I took some full time classes on front-end development with HTML, CSS, JS, NodeJS, PHP and MySQL. I'm a reliable person and passionate about technology, society and coding. I believe that the future is digital and I want to be part of it. If you share my vision and want to know more about me, feel free to follow me on social media and give me your feedback. I'm always open to new challenges and opportunities. Thank you for reading! 😊
 </details>
