@@ -29,6 +29,10 @@ You can find me at:
 
 <hr/>
 <br/>
+### Stats📈
+[![Umamitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=umamitas)](https://github.com/umamitas/github-readme-stats)
+<br/>
+<hr/>
 <details>
   <summary><h3>🧗Starting my climb</summary>
   
