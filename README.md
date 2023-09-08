@@ -1,4 +1,4 @@
-# 🏌️ Christian Alberto Litrico
+#Christian Alberto Litrico 🏌️
 
 **`Digital Humanist | Web Developer | Data Analyst wannabe`**
 
@@ -11,7 +11,7 @@ I am always looking for new knowledge, growth and improvement, both in my person
 
 Find me everywhere:
 <p>
-  <a href="https://www.linkedin.com/in/christianlitrico/"><img width="32px" alt="Linkedin" src="https://imgur.com/8e4Gc7f"/>
+  <a href="https://www.linkedin.com/in/christianlitrico/">
    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="https://www.kaggle.com/christianlitrico"><img width="32px" alt="Kaggle" src="https://www.kaggle.com/christianlitrico"/>
