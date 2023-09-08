@@ -11,10 +11,11 @@ I am always looking for new knowledge, growth and improvement, both in my person
 
 Find me everywhere:
 <p>
-  <a href="https://www.linkedin.com/in/christianlitrico/">
-   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <a href="https://www.linkedin.com/in/christianlitrico/"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
-  <a href="https://www.kaggle.com/christianlitrico"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg""/>
+ 
+  <a href="https://www.kaggle.com/christianlitrico">
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg""/>
   </a>
  
 </p>
