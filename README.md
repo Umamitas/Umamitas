@@ -28,12 +28,6 @@ You can find me at:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 
-### 📈 Stats (Truth hurts)
-
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianlitrico&show_icons=true&theme=dracula)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=christianlitrico&theme=gruvbox&border_radius=4.5) -->
-
 <details>
   <summary><h3>🧗Starting my climb</summary>
   
