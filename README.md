@@ -9,14 +9,14 @@ Problem solving, communication and team-work are some of the main soft skills ac
 Interested in the topics of user protection in digital spaces, media history and legislation on digital spaces.
 I am always looking for new knowledge, growth and improvement, both in my personal and professional life.
 <hr/>
-Find me everywhere:
+You can find me at:
 <p>
   <a href="https://www.linkedin.com/in/christianlitrico/"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="https://www.kaggle.com/christianlitrico"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg""/>
   </a>
 </p>
-
+<br/>
 <hr/>
 
 ### 🧑‍💻 Languages and Tools
@@ -29,6 +29,10 @@ Find me everywhere:
 
 
 ### 📈 Stats (Truth hurts)
+
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianlitrico&show_icons=true&theme=dracula)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=christianlitrico&theme=gruvbox&border_radius=4.5) -->
 
 <details>
   <summary><h3>🧗Starting my climb</summary>
