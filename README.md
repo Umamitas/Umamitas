@@ -29,8 +29,9 @@ I am always looking for new knowledge, growth and improvement, both in my person
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<hr/>
+
 <br/>
+<hr/>
 <details>
   <summary><h3>Starting my climb 🧗</summary>
   
