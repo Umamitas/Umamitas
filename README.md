@@ -1,4 +1,4 @@
-# Christian Alberto Litrico 🏌️
+# Christian Alberto Litrico 🏌🧘
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&duration=2500&pause=300&color=FFD700&vCenter=true&width=500&lines=Digital+Humanist;Junior+Web+Developer;Data+Analyst+wannabe)](https://git.io/typing-svg)
 
 
@@ -9,7 +9,7 @@ Problem solving, communication and team-work are some of the main soft skills ac
 Interested in the topics of user protection in digital spaces, media history and legislation on digital spaces.
 I am always looking for new knowledge, growth and improvement, both in my personal and professional life.
 <hr/>
-You can also check my socials:
+### You can also check my socials 🏌️:
 <p>
   <a href="https://www.linkedin.com/in/christianlitrico/"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
