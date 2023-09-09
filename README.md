@@ -1,5 +1,6 @@
 # Christian Alberto Litrico 🧘
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&duration=2500&pause=300&color=FFD700&vCenter=true&width=500&lines=Digital+Humanist;Junior+Web+Developer;Data+Analyst+wannabe)](https://git.io/typing-svg)
+
 Student in Digital Humanities at the University of Catania and graduate in Communication.
  
 Problem solving, communication and team-work are some of the main soft skills acquired during work and university experiences, which combined with the hard skills learnt such as programming (Python, HTML, CSS, JS, NodeJS and ReactJS), make me inclined to seek out and adopt different technologies as required and to work together with colleagues from whom I can always learn a lot.
