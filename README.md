@@ -1,7 +1,5 @@
 # Christian Alberto Litrico 🧘
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&duration=2500&pause=300&color=FFD700&vCenter=true&width=500&lines=Digital+Humanist;Junior+Web+Developer;Data+Analyst+wannabe)](https://git.io/typing-svg)
-
-
 Student in Digital Humanities at the University of Catania and graduate in Communication.
  
 Problem solving, communication and team-work are some of the main soft skills acquired during work and university experiences, which combined with the hard skills learnt such as programming (Python, HTML, CSS, JS, NodeJS and ReactJS), make me inclined to seek out and adopt different technologies as required and to work together with colleagues from whom I can always learn a lot.
@@ -10,8 +8,10 @@ Interested in the topics of user protection in digital spaces, media history and
 I am always looking for new knowledge, growth and improvement, both in my personal and professional life.
 <hr/>
 
-//-----SOCIAL LINKS----
-
+[![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<hr/>
 ### You can also check🏌️:
 
 <p>
@@ -22,12 +22,10 @@ I am always looking for new knowledge, growth and improvement, both in my person
 </p>
 <br/>
 <hr/>
-// -----TOP LANGUAGES IN REPOS----
+
 <details>
- 
  <summary> <h3>Top languages in my repos</h3></summary>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=christianlitrico)](https://github.com/umamitas/github-readme-stats)
- 
+ ![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/1-repos-per-language.svg)
 </details>
 ### Languages and Tools 🧑‍💻
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
