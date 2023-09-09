@@ -10,22 +10,14 @@ I am always looking for new knowledge, growth and improvement, both in my person
 <hr/>
 
 [![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<hr/>
-### You can also check🏌️:
-
-<p>
-  <a href="https://www.linkedin.com/in/christianlitrico/"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  <a href="https://www.kaggle.com/christianlitrico"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg""/>
-  </a>
-</p>
-<br/>
-<hr/>
-
-<details>
- <summary> <h3>Top languages in my repos</h3></summary>
- 
 [![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<hr/>
+
+
+<hr/>
+
+
 
 ### Languages and Tools 🧑‍💻
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -45,3 +37,13 @@ I am always looking for new knowledge, growth and improvement, both in my person
   
   Hi, I'm a communication graduate who decided to switch gears and dive into the fascinating world of digital humanities. I'm currently finishing my specialization at the University of Catania, where I'm learning how to tame data with Python, SQL, Machine Learning with hugging face, pandas and similar libraries. But that's not enough for me, I also want to create beautiful and interactive web pages, so I took some full time classes on front-end development with HTML, CSS, JS, NodeJS, PHP and MySQL. I'm a reliable person and passionate about technology, society and coding. I believe that the future is digital and I want to be part of it. If you share my vision and want to know more about me, feel free to follow me on social media and give me your feedback. I'm always open to new challenges and opportunities. Thank you for reading! 🫰
 </details>
+
+### You can also check🏌️:
+
+<p>
+  <a href="https://www.linkedin.com/in/christianlitrico/"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+  <a href="https://www.kaggle.com/christianlitrico"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg""/>
+  </a>
+</p>
+<br/>
