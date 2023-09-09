@@ -23,7 +23,7 @@ I am always looking for new knowledge, growth and improvement, both in my person
 <details>
  
  <summary> <h3>Top languages in my repos</h3></summary>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=christianlitrico)](https://github.com/christianlitrico/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=christianlitrico)](https://github.com/Umamitas/github-readme-stats)
  
 </details>
 ### Languages and Tools 🧑‍💻
