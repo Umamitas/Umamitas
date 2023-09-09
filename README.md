@@ -25,7 +25,7 @@ I am always looking for new knowledge, growth and improvement, both in my person
 <details>
  <summary> <h3>Top languages in my repos</h3></summary>
  
-[[!](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Languages and Tools 🧑‍💻
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
