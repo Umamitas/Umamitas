@@ -7,17 +7,8 @@ Problem solving, communication and team-work are some of the main soft skills ac
 
 Interested in the topics of user protection in digital spaces, media history and legislation on digital spaces.
 I am always looking for new knowledge, growth and improvement, both in my personal and professional life.
-<hr/>
-
-[![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <hr/>
-
-
-<hr/>
-
-
 
 ### Languages and Tools 🧑‍💻
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -31,7 +22,10 @@ I am always looking for new knowledge, growth and improvement, both in my person
 <br/>
 <hr/>
 
+[![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Umamitas/profile-summary-cards/master/profile-summary-card-output/nightowl/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<hr/>
 <details>
   <summary><h3>Starting my climb 🧗</h3></summary>
   
