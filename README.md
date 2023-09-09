@@ -10,7 +10,7 @@ Interested in the topics of user protection in digital spaces, media history and
 I am always looking for new knowledge, growth and improvement, both in my personal and professional life.
 <hr/>
 
-/* -----SOCIAL LINKS----*/
+//-----SOCIAL LINKS----
 
 ### You can also check🏌️:
 
@@ -22,11 +22,11 @@ I am always looking for new knowledge, growth and improvement, both in my person
 </p>
 <br/>
 <hr/>
-/* -----TOP LANGUAGES IN REPOS----*/
+// -----TOP LANGUAGES IN REPOS----
 <details>
  
  <summary> <h3>Top languages in my repos</h3></summary>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=christianlitrico)](https://github.com/Umamitas/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=christianlitrico)](https://github.com/umamitas/github-readme-stats)
  
 </details>
 ### Languages and Tools 🧑‍💻
