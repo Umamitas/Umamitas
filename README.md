@@ -17,7 +17,7 @@ I am always looking for new knowledge, growth and improvement, both in my person
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="auto" width="130" />
+<img align="left" alt="Jupyter" width="60px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="auto" width="130" />
 
 <br/>
 <hr/>
