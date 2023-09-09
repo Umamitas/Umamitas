@@ -10,6 +10,8 @@ Interested in the topics of user protection in digital spaces, media history and
 I am always looking for new knowledge, growth and improvement, both in my personal and professional life.
 <hr/>
 
+/* -----SOCIAL LINKS----*/
+
 ### You can also check🏌️:
 
 <p>
@@ -20,6 +22,7 @@ I am always looking for new knowledge, growth and improvement, both in my person
 </p>
 <br/>
 <hr/>
+/* -----TOP LANGUAGES IN REPOS----*/
 <details>
  
  <summary> <h3>Top languages in my repos</h3></summary>
